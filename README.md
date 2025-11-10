@@ -19,6 +19,7 @@ I started programming smart contracts in 2022 and worked for two years as a Smar
 | **Aave DIVA Wrapper**           | CodeHawks | 🥉 3rd    | Aave Integration                | Solidity |
 | **Rova**                        | Sherlock  | 🥉 3rd    | Launchpad                       | Solidity |
 | **Nudge.xyz**                   | Code4rena | 5th       | Liquidity Reallocation Protocol | Solidity |
+| **Summer.fi Governance V2**     | Sherlock  | 5th       | Cross-chain Governance          | Solidity |
 | **IQ, AI**                      | Code4rena | 13th      | Governance                      | Solidity |
 | **Symmio, Staking and Vesting** | Sherlock  | 16th      | Staking                         | Solidity |
 | **Vultisig**                    | Code4rena | 30th      | Launchpad                       | Solidity |
