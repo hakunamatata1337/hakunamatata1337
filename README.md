@@ -7,7 +7,7 @@ I started programming smart contracts in 2022 and worked for two years as a Smar
 - [Code4rena Profile](https://code4rena.com/@hakunamatata)
 - [Sherlock Profile](https://audits.sherlock.xyz/watson/BusinessShotgun)
 
-🏆 Achievements: **12 payouts • 3×1st place • 6×Top10 finishes**
+🏆 Achievements: **12 payouts • 3×1st place • 7×Top10 finishes**
 
 ## Public Audits
 
