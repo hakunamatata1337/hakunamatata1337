@@ -16,6 +16,7 @@ I started programming smart contracts in 2022 and worked for two years as a Smar
 | **StarkWare Perps**             | Code4rena | 🥇 1st    | Perpetual Exchange              | Cairo    |
 | **Blackhole**                   | Code4rena | 🥇 1st    | ve(3,3)                         | Solidity |
 | **Neutrl Protocol**             | Sherlock  | 🥇 1st    | Stablecoin                      | Solidity |
+| **Ekubo**                       | Code4rena | 🥉 3rd    | CLAMM (uni v4 fork)             | Solidity |
 | **Aave DIVA Wrapper**           | CodeHawks | 🥉 3rd    | Aave Integration                | Solidity |
 | **Rova**                        | Sherlock  | 🥉 3rd    | Launchpad                       | Solidity |
 | **Nudge.xyz**                   | Code4rena | 5th       | Liquidity Reallocation Protocol | Solidity |
