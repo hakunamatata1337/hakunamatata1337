@@ -6,8 +6,9 @@ I started programming smart contracts in 2022 and worked for two years as a Smar
 
 - [Code4rena Profile](https://code4rena.com/@hakunamatata)
 - [Sherlock Profile](https://audits.sherlock.xyz/watson/BusinessShotgun)
+- [Cantina Profile](https://cantina.xyz/u/BusinessShotgun)
 
-🏆 Achievements: **12 payouts • 3×1st place • 7×Top10 finishes**
+🏆 Achievements: **14 payouts • 3×1st place • 9×Top10 finishes**
 
 ## Public Audits
 
@@ -16,6 +17,7 @@ I started programming smart contracts in 2022 and worked for two years as a Smar
 | **StarkWare Perps**             | Code4rena | 🥇 1st    | Perpetual Exchange              | Cairo    |
 | **Blackhole**                   | Code4rena | 🥇 1st    | ve(3,3)                         | Solidity |
 | **Neutrl Protocol**             | Sherlock  | 🥇 1st    | Stablecoin                      | Solidity |
+| **VII-Finance**                 | Cantina   | 🥈 2nd    | Uniswap V4 Hook, Euler Vault Kit     | Solidity |
 | **Ekubo**                       | Code4rena | 🥉 3rd    | CLAMM (uni v4 fork)             | Solidity |
 | **Aave DIVA Wrapper**           | CodeHawks | 🥉 3rd    | Aave Integration                | Solidity |
 | **Rova**                        | Sherlock  | 🥉 3rd    | Launchpad                       | Solidity |
